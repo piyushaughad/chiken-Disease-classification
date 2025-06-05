@@ -85,7 +85,6 @@ open up you local host and port
 
 	2. AmazonEC2FullAccess
 
-	
 ## 3. Create ECR repo to store/save docker image
     - Save the URI: 298202295758.dkr.ecr.eu-north-1.amazonaws.com/chicken
 
